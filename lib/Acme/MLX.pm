@@ -10,11 +10,11 @@ Acme::MLX - The great new Acme::MLX!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.02_01';
 
 
 =head1 SYNOPSIS
