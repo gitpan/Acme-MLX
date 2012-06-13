@@ -1,6 +1,6 @@
 package Acme::MLX;
 
-use 5.006
+use 5.006;
 use strict;
 use warnings;
 
@@ -10,11 +10,11 @@ Acme::MLX - The great new Acme::MLX!
 
 =head1 VERSION
 
-Version 0.02
+Version 0.02_02
 
 =cut
 
-our $VERSION = '0.02_01';
+our $VERSION = '0.02_02';
 
 
 =head1 SYNOPSIS
